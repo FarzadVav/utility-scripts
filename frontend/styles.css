@@ -1,0 +1,4 @@
+/* For prevent screen y scroll  */
+html {
+   overscroll-behavior-y: contain;
+}
